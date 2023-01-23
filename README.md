@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Kade Hugh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaderator2&show_icons=true&theme=transparent)](https://github.com/kaderator2/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaderator2&repo=SubSimDiscordbot&theme=transparent)](https://github.com/kaderator2/SubSimDiscordbot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaderator2&repo=SubSimDiscordbot&theme=transparent&show_owner=true)](https://github.com/kaderator2/SubSimDiscordbot)
 <!--
 **kaderator2/kaderator2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
