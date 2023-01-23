@@ -1,6 +1,6 @@
 <div align = center>
   
-# Hi there 👋, I'm Kade
+# Hi, I'm Kade 👋
 
 [![Kade Hugh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaderator2&show_icons=true&theme=transparent)](https://github.com/kaderator2/github-readme-stats)
 
