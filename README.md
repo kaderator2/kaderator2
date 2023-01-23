@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Kade Hugh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaderator2)](https://github.com/kaderator2/github-readme-stats)
+[![Kade Hugh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaderator2&show_icons=true&theme=radical)](https://github.com/kaderator2/github-readme-stats)
 <!--
 **kaderator2/kaderator2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
