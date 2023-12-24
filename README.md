@@ -1,7 +1,9 @@
 <div align = center>
   
 # Hi, I'm Kade 👋
-<a href="doc:introduction" target="_blank">Find me here!</a>
+<a href="https://www.kadehdean.com/" target="_blank">kadehdean.com</a>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaderator2&theme=transparent)](https://github.com/kaderator2/github-readme-stats)
 
 
