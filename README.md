@@ -8,7 +8,7 @@
 
 
 
-🔭 I’m currently working on: finishing my CS Degree at the University of Arizona<br>🌱 I’m currently learning: Rust along with Compilers and Operating systems development<br>📫 How to reach me: through the info listed [here!](https://kadedean.com)
+I’m currently working on: finishing my CS Degree at the University of Arizona<br>I’m currently learning: Rust along with Compilers and Operating systems development<br>How to reach me: through the info listed [here!](https://kadedean.com)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=kaderator2&theme=dark&hide_border=false)<br/>
 
