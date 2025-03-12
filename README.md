@@ -4,7 +4,7 @@
 
 [My Personal Website](https://kadehdean.com)
 
-🔭 I’m currently working on: finishing my CS Degree at the University of Arizona<br>🌱 I’m currently learning: Rust along with Compilers and Operating systems development<br>📫 How to reach me: through the info listed [here!](https://kadehdean.com)
+🔭 I’m currently working on: finishing my CS Degree at the University of Arizona<br>🌱 I’m currently learning: Rust along with Compiler and Operating systems development<br>📫 How to reach me: through the info listed [here!](https://kadehdean.com)
  
  ![](https://nirzak-streak-stats.vercel.app/?user=kaderator2&theme=dark&hide_border=false)<br/>
  
